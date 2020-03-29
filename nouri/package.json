@@ -1,21 +1,29 @@
 {
-    "name": "nouri",
-    "displayName": "Nouri",
-    "description": "Dark theme!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.43.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "nouri",
-                "uiTheme": "vs-dark",
-                "path": "./themes/nouri-color-theme.json"
-            }
-        ]
-    }
+	"id": "BK686108",
+	"publisher": "AimeneNouri",
+	"name": "nouri",
+	"displayName": "Nouri",
+	"description": "nouri Theme!",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+	"icon": "logo.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "nouri",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nouri-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "fc879d3f-11a6-4d6a-a14d-a5d882187ec5",
+		"publisherDisplayName": "Aimene Nouri",
+		"publisherId": "bed2de97-0616-47ff-bfa2-9055972e3d66"
+	}
 }
