@@ -1,7 +1,3 @@
-# vscode-theme
- Create a cool vscode theme
-## The name of this extension is nourigog
-=======
 <p align="center">
   <img alt="Nouri Logo" src="https://raw.githubusercontent.com/AimeneNouri/vscode-theme/master/nouri/logo.png?token=ALRV67IDKHJBGEWWS2XFMTC6RINQQ" width="100" />
 </p>
