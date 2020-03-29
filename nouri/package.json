@@ -1,0 +1,21 @@
+{
+    "name": "nouri",
+    "displayName": "Nouri",
+    "description": "Dark theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nouri",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nouri-color-theme.json"
+            }
+        ]
+    }
+}
