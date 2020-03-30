@@ -11,10 +11,19 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=AimeneNouri.nouri">
-    Download it
+   <a href="https://marketplace.visualstudio.com/items?itemName=AimeneNouri.nouri">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version-short/aimenenouri.nouri.svg" />
   </a>
-</p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=AimeneNouri.nouri">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/aimenenouri.nouri.svg" />
+  </a>       
+  <a href="https://marketplace.visualstudio.com/items?itemName=AimeneNouri.nouri">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/rating-star/aimenenouri.nouri.svg" />
+  </a>                                                                                                 
+</p>      
+
+
+<br>
 
 ![two](https://user-images.githubusercontent.com/48455549/77856945-912ea900-71f2-11ea-818d-ab504be35dd5.PNG)
 
