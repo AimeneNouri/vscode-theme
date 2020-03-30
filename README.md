@@ -39,5 +39,20 @@
 > 3. Click **install** to install it
 > 4. Type `Ctrl + T` and choose the Theme. Enjoy!!
 
+<br>
+
 ## For Manual Installation 
 > Check the <a href="https://github.com/AimeneNouri/vscode-theme/blob/master/nouri/vsc-extension-quickstart.md">Vsc-extension-quickstart</a>
+
+<br>
+
+## Build With 
+<ul>
+ <li><a href="https://code.visualstudio.com/download">Vs code</a></li>
+ <li><a href="https://code.visualstudio.com/api/get-started/your-first-extension">yo code</a></li>
+ </ul>
+ 
+ <br>
+ 
+ ## Publish It With
+<ul><li><a href="https://code.visualstudio.com/api/working-with-extensions/publishing-extension">vsce</a></li></ul>
